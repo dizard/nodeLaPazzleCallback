@@ -6,7 +6,7 @@
     "name": "Mikhail Mankov"
   },
   "bugs": {
-    "url": "http://vcs.bingo-boom.ru/mikhail/nodeLaPazzleCallback/issues"
+    "url": "https://github.com/dizard/nodeLaPazzleCallback/issues"
   },
   "contributors": [
     {
@@ -25,6 +25,6 @@
   "main": "index",
   "repository": {
     "type": "git",
-    "url": "git@vcs.bingo-boom.ru:mikhail/nodeLaPazzleCallback.git"
+    "url": "git@github.com:dizard/nodeLaPazzleCallback.git"
   }
 }
