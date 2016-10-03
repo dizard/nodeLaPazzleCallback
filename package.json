@@ -1,0 +1,30 @@
+{
+  "name": "nodeLaPazzleCallback",
+  "description": "nodeLaPazzleCallback",
+  "version": "0.2.2",
+  "author": {
+    "name": "Mikhail Mankov"
+  },
+  "bugs": {
+    "url": "http://vcs.bingo-boom.ru/mikhail/nodeLaPazzleCallback/issues"
+  },
+  "contributors": [
+    {
+      "name": "Mikhail Mankov",
+      "email": "expertcode@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "ioredis": "*"
+  },
+  "keywords": [
+    "php",
+    "protocol"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git@vcs.bingo-boom.ru:mikhail/nodeLaPazzleCallback.git"
+  }
+}
